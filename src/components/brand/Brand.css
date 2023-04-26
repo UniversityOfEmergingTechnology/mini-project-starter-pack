@@ -1,0 +1,17 @@
+.gpt3_brand_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.gpt3_brand_section div{
+    max-width: 150px;
+    min-width: 120px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* syntax for flex property flex-grow=1 flex-shrink=1 flex-basis=0 */
+    flex: 1;
+}
