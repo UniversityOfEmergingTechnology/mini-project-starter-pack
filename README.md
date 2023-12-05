@@ -47,7 +47,7 @@ Contributions are welcome to enhance the functionality or design of the landing 
 This project is licensed under the MIT License
 
 ## Contact
-Should you have any questions or suggestions, please contact me at emergintechuniversity@gmail.com
+Should you have any questions or suggestions, please contact me at emergingtechuniversity@gmail.com
 
 
 
